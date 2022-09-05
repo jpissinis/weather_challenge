@@ -1,0 +1,5 @@
+"Los Angeles" 290.13498 "sky is clear"
+Denver 281.56668 "sky is clear"
+Atlanta 294.20508 mist
+Jacksonville 299.0316 mist
+Miami 297.77148 "few clouds"
