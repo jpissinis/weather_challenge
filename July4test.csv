@@ -1,0 +1,5 @@
+datetime,Los Angeles,Denver,Atlanta,Jacksonville,Miami,Reading
+7/4/2014 13:00,100,56,72,78,70,humidity
+7/4/2014 13:00,1014,1059,1020,1020,1021,pressure
+7/4/2014 13:00,45,233,0,240,140,wind direction
+7/4/2014 13:00,0,1,1,2,2,wind speed
